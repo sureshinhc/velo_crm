@@ -1,0 +1,7 @@
+{
+    "require": {
+        "rmccue/requests": "^2.0",
+        "netflie/whatsapp-cloud-api": "^2.2",
+        "firebase/php-jwt": "^6.10"
+    }
+}
